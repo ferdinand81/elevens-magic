@@ -1,8 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="ElevensMagic" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="Game" />
-    <module name="ElevensMagic" />
-    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    <method />
-  </configuration>
-</component>
